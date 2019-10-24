@@ -4,7 +4,7 @@ An unofficial browser extension to add unofficial functionality to the destiny.g
 
 ### Requirements
 
-1. Node >= 7.7.1
+1. Node >= 7.7.1 (Just use 7.7.1 if you can)
 1. everything [here](https://github.com/destinygg/website#requirements)
 
 ### How it works
